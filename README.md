@@ -14,7 +14,6 @@ Data Science • Machine Learning • AI Enthusiast 🚀
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech CSE Student
 - 🔭 Currently working on **PJM Energy Consumption Forecasting Pipeline**
 - 🌱 Learning **Time Series Forecasting, Machine Learning, DSA (C++), Cloud Computing**
 - 🤝 Looking to collaborate on **Data Science, ML & Open Source**
@@ -53,41 +52,13 @@ Data Science • Machine Learning • AI Enthusiast 🚀
 
 </p>
 
----
-
-# 🚀 Featured Projects
-
-### ⚡ PJM Energy Consumption Forecasting Pipeline
-
-Machine Learning pipeline for forecasting electricity demand using time-series analysis.
-
-**Tech Stack**
-
-Python • Pandas • Scikit-learn • XGBoost • Plotly
-
----
-
-### 🔋 EV Battery Life Prediction
-
-Predicts battery life and recommends optimized charging strategies.
-
-**Tech Stack**
-
-Python • Flask • XGBoost • Machine Learning
-
 # 📈 GitHub Stats
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Probin1904&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Probin1904&layout=compact&theme=tokyonight"/>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Probin1904&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Probin1904&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Probin1904&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Probin1904&theme=tokyonight"/>
-</p>
-
-# 🏆 GitHub Trophy
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Probin1904&theme=tokyonight&row=1&column=6"/>
 </p>
 
 # 📊 Contribution Graph
