@@ -2,10 +2,6 @@
 Hi 👋, I'm Probin Kumar Jena
 </h1>
 
-<h3 align="center">
-Data Science • Machine Learning • AI Enthusiast 🚀
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Machine+Learning+Engineer+in+Progress;Data+Science+Enthusiast;Building+Real+World+ML+Projects;Open+Source+Contributor" />
 </p>
@@ -23,22 +19,20 @@ Data Science • Machine Learning • AI Enthusiast 🚀
 ---
 
 ## 🌐 Connect with Me
-
 <p align="left">
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://www.linkedin.com/in/probin-kumar-jena/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+</a>
+  
+<a href="mailto:probinkumarjena@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<a href="https://github.com/Probin1904" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
 </a>
 
-<a href="https://github.com/Probin1904">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
 </p>
-
----
 
 # 🛠️ Languages & Tools
 
@@ -66,11 +60,6 @@ Data Science • Machine Learning • AI Enthusiast 🚀
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Probin1904&theme=tokyo-night"/>
 </p>
 
-# 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/Probin1904/Probin1904/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 # ☕ Random Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -80,9 +69,5 @@ Data Science • Machine Learning • AI Enthusiast 🚀
 <img src="https://komarev.com/ghpvc/?username=Probin1904&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![](https://komarev.com/ghpvc/?username=Probin1904&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
