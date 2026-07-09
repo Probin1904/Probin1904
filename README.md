@@ -7,7 +7,6 @@
 <img align="right" alt="Coding Cat" width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 <h2>👨‍💻 About Me</h2>
-<hr width="65%" align="left">
 
 - 🔭 Currently working on **PJM Energy Consumption Forecasting Pipeline**
 - 🌱 Learning **Time Series Forecasting, Machine Learning, DSA (C++), Cloud Computing**
