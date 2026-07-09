@@ -11,8 +11,6 @@
      alt="Coding Cat"
      src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-## 👨‍💻 About Me
-
 <h2>👨‍💻 About Me</h2>
 
 - 🔭 Currently working on **PJM Energy Consumption Forecasting Pipeline**
