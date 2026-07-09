@@ -15,7 +15,6 @@
 - ⚡ Fun Fact: *I enjoy transforming real-world datasets into intelligent ML solutions.*
 
 <br clear="right"/>
-<hr width="65%" align="left">
 
 ## 🌐 Connect with Me
 
