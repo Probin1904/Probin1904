@@ -7,7 +7,7 @@
 <br><br>
 
 <img align="right"
-     width="200"
+     width="178"
      alt="Coding Cat"
      src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
