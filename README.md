@@ -49,9 +49,10 @@
 </p>
 
 # 📈 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Probin1904&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Probin1904&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Probin1904&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Probin1904&theme=tokyonight&show_icons=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Probin1904&theme=tokyonight"/>
+</p>
 
 # 📊 Contribution Graph
 <p align="left">
