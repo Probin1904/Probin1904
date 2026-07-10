@@ -54,6 +54,10 @@
   <img height="170" src="https://streak-stats.demolab.com?user=Probin1904&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Probin1904&theme=tokyonight&layout=compact"/>
+</p>
+
 # 📊 Contribution Graph
 <p align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Probin1904&theme=tokyo-night"/>
