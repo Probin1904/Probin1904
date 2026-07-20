@@ -6,15 +6,13 @@
 
 <table>
 <tr>
-
 <td width="68%" valign="top">
-
 <h2>👨‍💻 About Me</h2>
 
 - 🔭 Currently working on **PJM Energy Consumption Forecasting Pipeline**
 - 🌱 Learning **Time Series Forecasting, Machine Learning, DSA (C++), Cloud Computing**
-- 🤝 Looking to collaborate on **Data Science, ML & Open Source**
-- 💬 Ask me about **Python, Pandas, Scikit-learn, XGBoost, Flask**
+- 🤝 Looking to collaborate on **Data Science, Machine Learning & Open Source**
+- 💬 Ask me about **Python, Pandas, NumPy, Scikit-learn, XGBoost, Flask**
 - ⚡ Fun Fact: *I enjoy transforming real-world datasets into intelligent ML solutions.*
 
 </td>
@@ -50,24 +48,34 @@
 
 # 📈 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Probin1904&theme=tokyonight&show_icons=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Probin1904&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Probin1904&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Probin1904&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Probin1904&theme=tokyonight&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Probin1904&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 # 📊 Contribution Graph
-<p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Probin1904&theme=tokyo-night"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Probin1904&theme=tokyo-night&hide_border=true"/>
+</p>
+
+# 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Probin1904&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
+
+# 📊 Profile Summary Card
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Probin1904&theme=tokyonight"/>
 </p>
 
 # ☕ Random Dev Quote
-<p align="left">
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Probin1904&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
