@@ -61,21 +61,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Probin1904&theme=tokyo-night&hide_border=true"/>
 </p>
 
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Probin1904&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
 # 📊 Profile Summary Card
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Probin1904&theme=tokyonight"/>
 </p>
 
-# ☕ Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Probin1904&label=Profile+Views&color=0e75b6&style=flat"/>
+# ☕ Random Dev Quote 
+<p align="left"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Probin1904&label=Profile+Views&color=0e75b6&style=flat"/> 
 </p>
